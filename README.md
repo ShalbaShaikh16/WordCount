@@ -18,7 +18,7 @@ Experience the WordCount tool in action!
 
 ## Screenshots
 
-[![WordCount Demo](./images/demo.png)](https://github.com/ShalbaShaikh16/WordCount/blob/main/count1.png?raw=true)  
+![WordCount Demo](https://github.com/ShalbaShaikh16/WordCount/blob/main/count1.png?raw=true)  
 _Example screenshot showing the live tool in action_
 
 ## Installation

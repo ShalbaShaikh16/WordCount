@@ -14,7 +14,8 @@
 
 Experience the WordCount tool in action!
 
-🔗 [Click here to try the live demo](https://your-live-demo-link.com)
+🔗[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://shalbashaikh16.github.io/WordCount/)
+
 
 ## Screenshots
 
